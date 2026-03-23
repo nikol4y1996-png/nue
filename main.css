@@ -44,7 +44,7 @@ body {
 .v1709_24548 {
   width: 61px;
   height: 61px;
-  background: url("../images/v1709_24548.png");
+  background: url("/images/v1709_24548.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -56,7 +56,7 @@ body {
   border-top-right-radius: 50px;
   border-bottom-left-radius: 50px;
   border-bottom-right-radius: 50px;
-  overflow: visible;
+  overflow: hidden;
 }
 .v1709_24549 {
   width: 200px;
