@@ -56,7 +56,7 @@ body {
   border-top-right-radius: 50px;
   border-bottom-left-radius: 50px;
   border-bottom-right-radius: 50px;
-  overflow: hidden;
+  overflow: visible;
 }
 .v1709_24549 {
   width: 200px;
