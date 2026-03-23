@@ -152,6 +152,9 @@ body {
   position: absolute;
   top: 1159px;
   left: 292px;
+  font-family: Helvetica Neue;
+  font-weight: Regular;
+  font-size: 14px;
   overflow: hidden;
 }
 .v1710_24661 {
@@ -182,6 +185,9 @@ body {
   background: url("../images/v1710_24663.png");
   background-repeat: no-repeat;
   background-position: center center;
+  font-family: Helvetica Neue;
+  font-weight: Regular;
+  font-size: 14px;
   background-size: cover;
   margin: 15px;
   opacity: 1;
