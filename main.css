@@ -175,6 +175,8 @@ body {
   position: absolute;
   top: 33px;
   left: 0px;
+  font-family: Helvetica Neue;
+  font-weight: Regular;
   font-size: 14px;
   opacity: 1;
   text-align: left;
